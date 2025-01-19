@@ -1,3 +1,9 @@
-# La Liga Machine Learning Project
+# Premier League Machine Learning Project
 
-This project focuses on using machine learning to predict outcomes of La Liga football matches. The project uses historical match data, applying various machine learning algorithms to predict whether the home team will win, lose, or draw. 
+This project focuses on analyzing the performance of La Liga football teams based on historical match data.
+
+## Features
+- Web-Scraping
+- Data Cleaning and Preparation
+- In Depth Statistics and Analysis
+- Multivariate Linear Regression Model
