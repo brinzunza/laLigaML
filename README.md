@@ -1,4 +1,4 @@
-# Premier League Machine Learning Project
+# La Liga Machine Learning Project
 
 This project focuses on analyzing the performance of La Liga football teams based on historical match data.
 
